@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-image-fallback": "^8.0.0"
+  }
+}
